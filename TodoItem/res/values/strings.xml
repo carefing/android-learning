@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TodoExample</string>
+    <string name="body_default">Study cursors</string>
+    <string name="priority_default">3</string>
+</resources>
